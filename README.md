@@ -15,4 +15,4 @@ para representar a entrada de valores na conta.
 
 - Caso seja digitado qualquer opção que não seja correta, deve apresentar a mensagem de opção inválida.
 
-Usaremos a classe Scanner para fazer a leitura da opção do usuário.
+- Será utilizado a classe Scanner para fazer a leitura da opção do usuário.
